@@ -1,0 +1,73 @@
+training:testing = 10:90
+Model training with 272 images...
+Model trained within 0.243999958038 sec.
+Input 3060 images to predict result...
+1119
+Prediction done within 49.5160000324 sec.
+Accuracy:  0.36568627451
+--------------------------------------------
+training:testing = 20:80
+Model training with 612 images...
+Model trained within 0.396999835968 sec.
+Input 2720 images to predict result...
+1829
+Prediction done within 83.7950000763 sec.
+Accuracy:  0.672426470588
+--------------------------------------------
+training:testing = 30:70
+Model training with 952 images...
+Model trained within 0.628000020981 sec.
+Input 2380 images to predict result...
+1921
+Prediction done within 113.035000086 sec.
+Accuracy:  0.807142857143
+--------------------------------------------
+training:testing = 40:60
+Model training with 1292 images...
+Model trained within 0.831000089645 sec.
+Input 2040 images to predict result...
+1749
+Prediction done within 131.446999788 sec.
+Accuracy:  0.857352941176
+---------------------------------------------
+training:testing = 50:50
+Model training with 1632 images...
+Model trained within 1.05499982834 sec.
+Input 1700 images to predict result...
+1448
+Prediction done within 137.551000118 sec.
+Accuracy:  0.851764705882
+--------------------------------------------
+training:testing = 60:40
+Model training with 1972 images...
+Model trained within 1.2610001564 sec.
+Input 1360 images to predict result...
+1277
+Prediction done within 132.269999981 sec.
+Accuracy:  0.938970588235
+--------------------------------------------
+training:testing = 70:30
+Model training with 2312 images...
+Model trained within 1.47100019455 sec.
+Input 1020 images to predict result...
+966
+Prediction done within 116.636999846 sec.
+Accuracy:  0.947058823529
+--------------------------------------------
+training:testing = 80:20
+Model training with 2652 images...
+Model trained within 1.71599984169 sec.
+Input 680 images to predict result...
+648
+Prediction done within 89.1519999504 sec.
+Accuracy:  0.952941176471
+--------------------------------------------
+training:testing = 90:10
+Model training with 2992 images...
+Model trained within 1.92199993134 sec.
+Input 340 images to predict result...
+309
+Prediction done within 51.0450000763 sec.
+Accuracy:  0.908823529412
+
+
